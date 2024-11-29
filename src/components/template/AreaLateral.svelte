@@ -1,8 +1,24 @@
+<script>
+  import Menu from "./Menu.svelte";
+</script>
+
 <aside
   class="flex flex-col self-start gap-10
   border border-zinc-800 p-5 rounded-md w-72"
 >
-  <span>Menu #1</span>
-  <span>Menu #2</span>
-  <span>Menu #3</span>
+  <Menu titulo="Navegação">
+    <li>Teste #1</li>
+    <li>Teste #2</li>
+    <li>Teste #3</li>
+  </Menu>
+  <Menu titulo="Principais Autores">
+    <li>Teste #1</li>
+    <li>Teste #2</li>
+    <li>Teste #3</li>
+  </Menu>
+  <Menu titulo="Outras Categorias">
+    <li>Teste #1</li>
+    <li>Teste #2</li>
+    <li>Teste #3</li>
+  </Menu>
 </aside>
