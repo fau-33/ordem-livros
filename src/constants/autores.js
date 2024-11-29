@@ -20,6 +20,12 @@ const autores = [
       "https://musicaecinema.com/wp-content/uploads/2024/11/george-rr-martin-spin-off-arya-stark-1024x576.webp",
     biografia: "George R.R. Martin (nascido em 20 de setembro de 1948) é um autor americano conhecido pela série As Crônicas de Gelo e Fogo.\n\nEle começou sua carreira escrevendo contos na década de 1970 antes de se dedicar à literatura.\n\nA adaptação televisiva Game of Thrones se tornou um fenômeno cultural global."
   },
+  {
+    "id": "alexander-moreno",
+    "nome": "Alexander Moreno",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jY7oftkwhodjvFU_SteeFYnwZiUHru0wKQ&s",
+    "biografia": "Alexander Moreno (nascido em 15 de março de 1980) é um autor contemporâneo brasileiro, conhecido por suas obras de ficção científica e fantasia que exploram temas de identidade e tecnologia. Nascido em São Paulo, Moreno começou a escrever histórias curtas na adolescência, influenciado por clássicos da literatura e pela cultura pop.\n\nApós se formar em Engenharia da Computação, ele decidiu seguir sua paixão pela escrita, publicando seu primeiro romance, *As Crônicas de Aether*, em 2010. O livro rapidamente ganhou popularidade e foi elogiado por sua narrativa envolvente e personagens complexos.\n\nDesde então, Moreno lançou vários outros títulos, incluindo *O Último Portal* e *Cidades do Amanhã*, que solidificaram sua posição como uma voz inovadora na literatura brasileira. Além de escritor, ele é um palestrante ativo sobre criatividade e tecnologia, participando de eventos literários e conferências ao redor do mundo.\n\nMoreno também é um defensor da literatura acessível e fundou a iniciativa 'Livros para Todos', que visa promover a leitura entre jovens em comunidades carentes."
+}
 ];
 
 export default autores;
