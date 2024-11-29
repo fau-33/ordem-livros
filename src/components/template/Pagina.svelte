@@ -1,9 +1,10 @@
 <script>
-    import Logo from "./Logo.svelte";
+    import Cabecalho from "./Cabecalho.svelte";
+    
 
 </script>
 <div class="flex flex-col min-h-screen bg-black text-white">
-    <Logo />
+    <Cabecalho />
 
     <main>
         <slot></slot>
