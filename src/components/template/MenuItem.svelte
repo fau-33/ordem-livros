@@ -12,6 +12,7 @@
     hover:bg-white/10
   "
   >
+    <slot></slot>
     <span>{texto}</span>
   </a>
 </li>
